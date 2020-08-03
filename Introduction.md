@@ -18,5 +18,4 @@ A resume is a succinct outline of your education, experience, activities, accomp
 You will practice design thinking and prototyping in this internship program. You will walk away from this program with a portfolio and a body of work. We are only going to focus
 on one project but you will think about the project in many different ways. 
 
-We are going to explore a lot of the resources from the Stanford school of design (d-school) and you can start by watching this lesson on design thining to get
-a high level understanding of what design thinking is and how this might apply to your project.
+We are going to explore a lot of the resources from the Stanford school of design (d-school) and you can start by watching this lesson on design thining to get a high level understanding of what design thinking is and how this might apply to your project. [Stanford design thinking](https://www.youtube.com/watch?v=vSuK2C89yjA)
